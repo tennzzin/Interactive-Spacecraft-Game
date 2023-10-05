@@ -1,6 +1,3 @@
-# Part E: Right and left walls loop (wall_loop method) and the Player can't move after game is over (self.game_over bool).
-
-# A
 import turtle, random, math
 
 class Game:
