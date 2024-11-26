@@ -17,9 +17,6 @@ __How to Play__
   - `cd spacecraft-game`
 - Run the game:
   - `python spacecraft_game.py`
-  
-      **OR**
-  - `python3 spacecraft_game.py`
 
 __Controls__
 - **Arrow Up**: Thrust upward to counteract gravity.
