@@ -17,7 +17,8 @@ __How to Play__
   - `cd spacecraft-game`
 - Run the game:
   - `python spacecraft_game.py`
-  OR:
+  
+  OR
   - `python3 spacecraft_game.py`
 
 __Controls__
