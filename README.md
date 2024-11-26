@@ -35,12 +35,6 @@ __Skills Demonstrated__
 - **Collision Detection**: Implemented logic for obstacle avoidance and successful landing.
 - **Object-Oriented Programming**: Designed modular and reusable code with classes.
 
-__Future Enhancements__
-- Add levels with increasing difficulty and more obstacles.
-- Implement a scoring system based on survival time and landing precision.
-- Introduce power-ups such as fuel packs or shields.
-- Enhance visuals with a graphical user interface (GUI).
-
 __Author__
 
 **Tenzin Chonyi** - [LinkedIn](https://www.linkedin.com/in/tenzin-chonyi-871863252)
