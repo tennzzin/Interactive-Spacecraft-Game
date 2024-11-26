@@ -1,4 +1,4 @@
-__Spacecraft Survival Game__
+# Spacecraft Survival Game
 
 __Overview__
 
