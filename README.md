@@ -13,7 +13,7 @@ __Features__
 
 __How to Play__
 - Clone the repository:
-  - `git clone https://github.com/yourusername/spacecraft-game.git`
+  - `git clone https://github.com/tennzzin/spacecraft-game.git`
   - `cd spacecraft-game`
 - Run the game:
   - `python spacecraft_game.py`
